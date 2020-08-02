@@ -21,3 +21,7 @@
 - Por utlimo criaremos um diretório src/styles.
 - Dentro da pasta styles, precisaremos criar um arquivo _custom_colors.scss.
 - No nosso app.js nos vamos importar os componentes que estão disponiveis na documentação do RBX.
+
+# Criação do Header
+- Criar um diretorio src/components/header e o arquivo interno index.js.
+- Criaremos um arquivo header.scss de estilo no diretorio src/styles/.
