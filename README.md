@@ -25,3 +25,7 @@
 # Criação do Header
 - Criar um diretorio src/components/header e o arquivo interno index.js.
 - Criaremos um arquivo header.scss de estilo no diretorio src/styles/.
+
+# Criação da Tela Home.
+- Criar um diretorio src/screens/home e dentro desse diretorio um arquivo index.js.
+- Criar um arquivo na pasta styles home.scss para estilização.
