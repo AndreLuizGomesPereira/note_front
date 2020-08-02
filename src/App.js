@@ -1,10 +1,17 @@
-import React from 'react';
+import React, { Fragment } from 'react';
+import { Notification, Section } from 'rbx';
+import './App.scss';
 
 
-function App() {
-  return (
-    <div><h1>Javascript Note</h1></div>
-  );
-}
+const App = () => (
+  <Fragment>
+    <Section>
+      <Notification color="success">
+        JavaScript Notes!
+    </Notification>
+    </Section>
+  </Fragment>
+
+)
 
 export default App;

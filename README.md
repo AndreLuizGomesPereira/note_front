@@ -13,3 +13,11 @@
 - **npm i @fortawesome/fontawesome-svg-core --save** Fontes para icones.
 - **npm i @fortawesome/free-solid-svg-icons --save** Fontes para icones.
 - **npm i @fortawesome/react-fontawesome --save** Fontes para icones.
+
+# Organizar pastas do nosso projeto.
+- Primeiro criar esse diretório src/assets/images.
+- Segundo criar outro diretório src/components.
+- Terceiro criar outro diretprio src/screens.
+- Por utlimo criaremos um diretório src/styles.
+- Dentro da pasta styles, precisaremos criar um arquivo _custom_colors.scss.
+- No nosso app.js nos vamos importar os componentes que estão disponiveis na documentação do RBX.
