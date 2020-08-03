@@ -25,10 +25,17 @@
 # Criação do Header
 - Criar um diretorio src/components/header e o arquivo interno index.js.
 - Criaremos um arquivo header.scss de estilo no diretorio src/styles/.
+- Adicionar no Header um link importando o componente LINK para inserir link de retorno na Logomarca.
+- Adicionar Colunas para navegar nas páginas das rotas CADASTRO e LOGIN.
 
 # Criação da Tela Home.
 - Criar um diretorio src/screens/home e dentro desse diretorio um arquivo index.js.
 - Criar um arquivo na pasta styles home.scss para estilização.
+- Adicionar LINK para a página de registro.
 
 # Criação das rotas
-- Criaremos um arquivo no diretorio src routes.js
+- Criaremos um arquivo no diretorio src routes.js.
+
+# Iniciaremos sistema de navegação básica.
+- Criaremos algumas screnss necessárias dentro do nosso sistema.
+- Diretorio criado auth/login e auth/register, notes/index, users/edit, cada diretorio tera um arquivo base index.js.

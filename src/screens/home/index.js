@@ -1,6 +1,7 @@
 import React, { ReactFragment } from 'react';
 import presentationImage from '../../assets/images/presentation.png';
 import Header from '../../components/header';
+import { Link } from 'react-router-dom';
 import { Column, Section, Title, Container } from 'rbx';
 import '../../styles/home.scss';
 
@@ -18,9 +19,9 @@ const HomeScreen = () => (
                         <Title size={5} spaced className="has-text-light" subtitle>
                             Faça já o seu cadastro.
                         </Title>
-                        <a className="button is-outlined is-white is-large">
+                        <Link to="/register" className="button is-outlined is-white is-large">
                             <strong>Cadastre-se grátis</strong>
-                        </a>
+                        </Link>
                     </Column>
                     <Column size={6} offset={1}>
                         <img src={presentationImage} />
