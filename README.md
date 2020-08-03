@@ -29,3 +29,6 @@
 # Criação da Tela Home.
 - Criar um diretorio src/screens/home e dentro desse diretorio um arquivo index.js.
 - Criar um arquivo na pasta styles home.scss para estilização.
+
+# Criação das rotas
+- Criaremos um arquivo no diretorio src routes.js
