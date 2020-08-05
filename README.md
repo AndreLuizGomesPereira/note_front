@@ -39,3 +39,6 @@
 # Iniciaremos sistema de navegação básica.
 - Criaremos algumas screnss necessárias dentro do nosso sistema.
 - Diretorio criado auth/login e auth/register, notes/index, users/edit, cada diretorio tera um arquivo base index.js.
+
+# Iniciaremos criar os componentes para Registro.
+- Criar um diretorio na pasta component auth/register_form/index.js.
