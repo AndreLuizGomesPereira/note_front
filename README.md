@@ -45,3 +45,4 @@
 
 # Iremos criar a conexão de login com a API.
 - Iniciaremos com a rota da nossa screen auth/login/index.js.
+- Iremos criar um component de formulario para o login
