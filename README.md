@@ -40,5 +40,8 @@
 - Criaremos algumas screnss necessárias dentro do nosso sistema.
 - Diretorio criado auth/login e auth/register, notes/index, users/edit, cada diretorio tera um arquivo base index.js.
 
-# Iniciaremos criar os componentes para Registro.
+# Iniciaremos criando o componentes para Registro.
 - Criar um diretorio na pasta component auth/register_form/index.js.
+
+# Iremos criar a conexão de login com a API.
+- Iniciaremos com a rota da nossa screen auth/login/index.js.
