@@ -45,4 +45,8 @@
 
 # Iremos criar a conexão de login com a API.
 - Iniciaremos com a rota da nossa screen auth/login/index.js.
-- Iremos criar um component de formulario para o login
+- Iremos criar um component de formulario para o login.
+
+# Vamos conectar a API.
+- Vamos criar a pasta services com dois arquivos api.js e users.js.
+- Vamos agora rodar a nossa API, porem iremos rodar o comando **nodemon start PORT=3001**.
